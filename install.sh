@@ -32,7 +32,7 @@ brew install php70; brew link php70
 PATH=/usr/local/opt/coreutils/libexec/gnubin:$PATH
 
 # Clone repo into temp folder.
-git clone https://github.com/pantarei/homebrew-installer.git $TMP_DIR
+git clone https://github.com/wstang5c/homebrew-installer.git $TMP_DIR
 
 # Copy .bash_profile.
 cp $TMP_DIR/.bash_profile $HOME/
