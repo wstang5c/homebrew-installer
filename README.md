@@ -5,7 +5,7 @@ Wrapper for [homebrew](https://github.com/Homebrew/homebrew) installation.
 
 Run this script with:
 
-    /bin/bash <(curl -fsSL https://raw.githubusercontent.com/pantarei/homebrew-installer/master/install.sh)
+    /bin/bash <(curl -fsSL https://raw.githubusercontent.com/wstang5c/homebrew-installer/master/install.sh)
 
 For cleanup before reinstall:
 
